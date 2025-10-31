@@ -1,0 +1,26 @@
+[project]
+name = "rag-ext"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bm25>=1.0.0",
+    "chromadb>=1.0.20",
+    "docx2txt>=0.9",
+    "faiss-cpu>=1.12.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-groq>=0.3.7",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.31",
+    "langgraph>=0.6.10",
+    "openpyxl>=3.1.5",
+    "pdfminer>=20191125",
+    "pypdf>=6.0.0",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.1.1",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=5.1.0",
+    "tiktoken>=0.11.0",
+]

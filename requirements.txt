@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain_community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pdfminer
+python-docx
+docx2txt
+openpyxl
+langchain-huggingface
+rank_bm25
+langgraph
