@@ -17,4 +17,5 @@ It covers every stage — from data ingestion and parsing (PDFs, Docs, CSVs, Dat
 
 ⚙️ Tech Stack
 
-Python · LangChain · FAISS · ChromaDB · HuggingFace · OpenAI API · PDF/Doc Parsers
+Python · LangChain and LangGraph · FAISS · ChromaDB · HuggingFace · OpenAI API/ GROQ · PDF/Doc Parsers 
+
